@@ -1,8 +1,14 @@
-# Black-Scholes model in PureScript
+# purescript-black-scholes
 
-[Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+[Black-Scholes model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) in PureScript.
 
-### Input
+## Installation
+
+```
+bower install purescript-black-scholes
+```
+
+## Input
 
 * Type of option (Call or Put)
 * Current price of the underlying
@@ -11,11 +17,11 @@
 * Time until expiration (in years)
 * Daily volatility
 
-### Output
+## Output
 
 The current value of the option
 
-### Formulas
+## Formulas
 
 #### Call:
 
@@ -24,3 +30,7 @@ The current value of the option
 #### Put:
 
 ![Put](https://wikimedia.org/api/rest_v1/media/math/render/svg/4ed2a3d59c05c42219bc864b50099ebd5baf4297)
+
+## Documentation
+
+Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-black-scholes).
