@@ -14,3 +14,13 @@
 ### Output
 
 The current value of the option
+
+### Formulas
+
+#### Call:
+
+![Call](https://wikimedia.org/api/rest_v1/media/math/render/svg/02b3399c25f96bc2ce3a70dbce628620cf726c29)
+
+#### Put:
+
+![Put](https://wikimedia.org/api/rest_v1/media/math/render/svg/4ed2a3d59c05c42219bc864b50099ebd5baf4297)
