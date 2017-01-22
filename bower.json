@@ -1,6 +1,15 @@
 {
   "name": "purescript-black-scholes",
   "license": "MIT",
+  "keywords": [
+    "purescript",
+    "black-scholes",
+    "finance"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vyorkin/purescript-black-scholes.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
