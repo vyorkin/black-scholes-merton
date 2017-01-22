@@ -1,4 +1,4 @@
-# Black-Scholes-Merton model implementation in PureScript
+# Black-Scholes model in PureScript
 
 [Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 

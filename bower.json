@@ -1,5 +1,5 @@
 {
-  "name": "black-scholes-merton",
+  "name": "purescript-black-scholes",
   "ignore": [
     "**/.*",
     "node_modules",
